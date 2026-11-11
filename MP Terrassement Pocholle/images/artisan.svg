@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" width="1200" height="1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a5a2b"/><stop offset="1" stop-color="#3a2c1f"/></linearGradient>
+    <pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="28" stroke="#fff3df" stroke-opacity=".10" stroke-width="10"/></pattern>
+  </defs>
+  <rect width="1200" height="1000" fill="url(#g)"/>
+  <rect width="1200" height="1000" fill="url(#p)"/>
+  <circle cx="983.9999999999999" cy="200" r="320" fill="#fff3df" fill-opacity=".07"/>
+  <g transform="translate(600 411.8)" fill="none" stroke="#fff3df" stroke-opacity=".75" stroke-width="7" stroke-linejoin="round">
+    <rect x="-75.6" y="-50.400000000000006" width="151.2" height="107.1" rx="15.75"/>
+    <circle cx="0" cy="3.1500000000000004" r="31.5"/>
+    <path d="M-28.35 -50.400000000000006l12.600000000000001 -18.9h31.5l12.600000000000001 18.9"/>
+  </g>
+  <text x="50%" y="575.6" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="700" fill="#fff3df" fill-opacity=".85">Mickaël sur un chantier</text>
+  <text x="50%" y="644.9" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="37.8" fill="#fff3df" fill-opacity=".6">Photo à remplacer · artisan.jpg</text>
+</svg>

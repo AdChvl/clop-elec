@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8a5a2b"/><stop offset="1" stop-color="#3a2c1f"/></linearGradient>
+    <pattern id="p" width="28" height="28" patternUnits="userSpaceOnUse" patternTransform="rotate(35)"><line x1="0" y1="0" x2="0" y2="28" stroke="#fff3df" stroke-opacity=".10" stroke-width="10"/></pattern>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <rect width="1200" height="900" fill="url(#p)"/>
+  <circle cx="983.9999999999999" cy="180" r="288" fill="#fff3df" fill-opacity=".07"/>
+  <g transform="translate(600 371.6)" fill="none" stroke="#fff3df" stroke-opacity=".75" stroke-width="6.222222222222222" stroke-linejoin="round">
+    <rect x="-67.2" y="-44.800000000000004" width="134.4" height="95.2" rx="14"/>
+    <circle cx="0" cy="2.8000000000000003" r="28"/>
+    <path d="M-25.2 -44.800000000000004l11.200000000000001 -16.8h28l11.200000000000001 16.8"/>
+  </g>
+  <text x="50%" y="517.2" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" fill="#fff3df" fill-opacity=".85">Allée en pavés</text>
+  <text x="50%" y="578.8" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="33.6" fill="#fff3df" fill-opacity=".6">Photo à remplacer · galerie-3.jpg</text>
+</svg>

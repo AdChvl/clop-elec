@@ -1,0 +1,13 @@
+# Outils et prospection : dépôt privé séparé
+_generateur/
+_prompts/
+# Notes internes et outils locaux (aussi exclus dans chaque site)
+LIVRAISON.md
+LISEZMOI.md
+PROMPT.md
+.claude/
+*.zip
+Thumbs.db
+desktop.ini
+.DS_Store
+node_modules/
